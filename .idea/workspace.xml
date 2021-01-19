@@ -20,7 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab626599-86a2-4c5b-bb88-ae5d6b0cd3bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/flyweight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/flyweight/Nota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/flyweight/NotasMusicais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/flyweight/Piano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/flyweight/notas/Do.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/flyweight/notas/Fa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/flyweight/notas/La.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/flyweight/notas/Mi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/flyweight/notas/Re.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/flyweight/notas/Si.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/flyweight/notas/Sol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +55,9 @@
     <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectId" id="1nFfwyB7Cbe7kGbn7mAhIQ1OGcH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,13 +65,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/jfugue-5.0.9.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3091954" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.alura.flyweight" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.state.Main" />
       <module name="design-patterns-I" />
@@ -71,8 +90,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.flyweight.Main" />
+      <module name="design-patterns-I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.flyweight.notas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -123,38 +156,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="Padrão de Projeto: State" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2167" y="256" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1611002212359">
+    <state x="2167" y="256" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1611089282033">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="2167" y="256" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611002212359" />
+    <state x="2167" y="256" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611089282032" />
     <state x="1898" y="100" width="912" height="904" key="CommitChangelistDialog2" timestamp="1611002706554">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="1898" y="100" width="912" height="904" key="CommitChangelistDialog2/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611002706554" />
-    <state x="2137" y="295" width="424" height="513" key="FileChooserDialogImpl" timestamp="1611016690148">
+    <state x="2137" y="295" width="735" height="513" key="FileChooserDialogImpl" timestamp="1611089758071">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="2137" y="295" width="424" height="513" key="FileChooserDialogImpl/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611016690148" />
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1611002685761">
+    <state x="2137" y="295" width="735" height="513" key="FileChooserDialogImpl/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611089758071" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1611090072436">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611002685761" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1611002685761">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611090072436" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1611090072435">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611002685761" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1611002685761">
+    <state width="1807" height="278" key="GridCell.Tab.0.center/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611090072435" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1611090072435">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611002685761" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1611002685761">
+    <state width="1807" height="278" key="GridCell.Tab.0.left/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611090072435" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1611090072436">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611002685761" />
-    <state x="1848" y="187" width="1024" height="845" key="SettingsEditor" timestamp="1611002677616">
+    <state width="1807" height="278" key="GridCell.Tab.0.right/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611090072436" />
+    <state x="1848" y="187" width="1024" height="845" key="SettingsEditor" timestamp="1611089888131">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="1848" y="187" width="1024" height="845" key="SettingsEditor/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611002677616" />
+    <state x="1848" y="187" width="1024" height="845" key="SettingsEditor/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611089888131" />
     <state x="1954" y="274" width="800" height="556" key="Vcs.Push.Dialog.v2" timestamp="1611002708212">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>

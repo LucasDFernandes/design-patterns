@@ -1,4 +1,4 @@
-# Design-Patterns-I
+# Design-Patterns
 Projeto com exemplos de padrões de projeto
 
 ### Lista de Design Patterns
@@ -33,4 +33,7 @@ Projeto com exemplos de padrões de projeto
     - Quando Utilizar?
         - Quando o acoplamento da nossa classe está crescendo, ou quando temos diversas ações diferentes a serem executadas após um determinado processo, podemos implementar o Observer.
           
-          Ele permite que diversas ações sejam executadas de forma transparente à classe principal, reduzindo o acoplamento entre essas ações, facilitando a manutenção e evolução do código.     
+          Ele permite que diversas ações sejam executadas de forma transparente à classe principal, reduzindo o acoplamento entre essas ações, facilitando a manutenção e evolução do código.
+- Flyweight
+    - Quando Utilizar?
+        - Um Flyweight serve para quando temos muitas instâncias do mesmo objeto andando pelo sistema, e precisamos economizar. Para tal, o Flyweight faz uso de uma fábrica modificada, que guarda essas instâncias.            
