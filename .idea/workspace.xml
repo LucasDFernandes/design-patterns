@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab626599-86a2-4c5b-bb88-ae5d6b0cd3bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TesteExercício3.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nFfwyB7Cbe7kGbn7mAhIQ1OGcH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3091954" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.state.Main" />
+      <module name="design-patterns-I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab626599-86a2-4c5b-bb88-ae5d6b0cd3bd" name="Default Changelist" comment="" />
+      <created>1610991001138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610991001138</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1610991118740</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610991118740</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Padrão de Projeto: State">
+      <created>1611002706688</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611002706688</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="Padrão de Projeto: State" />
+    <option name="LAST_COMMIT_MESSAGE" value="Padrão de Projeto: State" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2167" y="256" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1611002212359">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2167" y="256" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611002212359" />
+    <state x="1898" y="100" width="912" height="904" key="CommitChangelistDialog2" timestamp="1611002706554">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1898" y="100" width="912" height="904" key="CommitChangelistDialog2/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611002706554" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1611002685761">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611002685761" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1611002685761">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611002685761" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1611002685761">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611002685761" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1611002685761">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611002685761" />
+    <state x="1848" y="187" width="1024" height="845" key="SettingsEditor" timestamp="1611002677616">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1848" y="187" width="1024" height="845" key="SettingsEditor/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611002677616" />
+    <state x="1954" y="274" width="800" height="556" key="Vcs.Push.Dialog.v2" timestamp="1611002708212">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1954" y="274" width="800" height="556" key="Vcs.Push.Dialog.v2/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611002708212" />
+  </component>
+</project>
