@@ -6,6 +6,7 @@ import java.util.List;
 
 import br.com.alura.domain.ItemDaNota;
 import br.com.alura.domain.NotaFiscal;
+import br.com.alura.observer.AcaoAposGerarNotaFiscal;
 
 public class NotaFiscalBuilder {
 
@@ -13,12 +14,23 @@ public class NotaFiscalBuilder {
     private String cnpj;
     private double valorBruto;
     private double impostos;
-    private List<ItemDaNota> todosItens = new ArrayList<ItemDaNota>();
+    private final List<ItemDaNota> todosItens = new ArrayList<>();
     private Calendar data;
     private String observacoes;
+    private final List<AcaoAposGerarNotaFiscal> posAcoes;
+
+    public NotaFiscalBuilder() {
+        this.posAcoes = new ArrayList<>();
+    }
 
     public NotaFiscal constroi() {
-        return new NotaFiscal(razaoSocial, cnpj, data, valorBruto, impostos, todosItens, observacoes);
+        NotaFiscal notaFiscal = new NotaFiscal(razaoSocial, cnpj, data, valorBruto, impostos, todosItens, observacoes);
+        posAcoes.forEach(acaoAposGerarNotaFiscal -> acaoAposGerarNotaFiscal.executa(notaFiscal));
+        return notaFiscal;
+    }
+
+    public void adicionaAcao(AcaoAposGerarNotaFiscal acaoAposGerarNotaFiscal) {
+        this.posAcoes.add(acaoAposGerarNotaFiscal);
     }
 
     public NotaFiscalBuilder paraEmpresa(String razaoSocial) {

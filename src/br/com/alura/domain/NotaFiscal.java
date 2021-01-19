@@ -1,7 +1,10 @@
 package br.com.alura.domain;
 
+import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
+
+import br.com.alura.observer.AcaoAposGerarNotaFiscal;
 
 public class NotaFiscal {
 
