@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ab626599-86a2-4c5b-bb88-ae5d6b0cd3bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TesteExercício3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +35,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectId" id="1nFfwyB7Cbe7kGbn7mAhIQ1OGcH" />
   <component name="ProjectViewState">
@@ -82,6 +105,18 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Padrão de Projeto: State" />
@@ -96,6 +131,10 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="1898" y="100" width="912" height="904" key="CommitChangelistDialog2/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611002706554" />
+    <state x="2137" y="295" width="424" height="513" key="FileChooserDialogImpl" timestamp="1611016690148">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2137" y="295" width="424" height="513" key="FileChooserDialogImpl/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611016690148" />
     <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1611002685761">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
@@ -120,5 +159,9 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="1954" y="274" width="800" height="556" key="Vcs.Push.Dialog.v2/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611002708212" />
+    <state x="1953" y="154" width="802" height="796" key="new project wizard" timestamp="1611016714682">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1953" y="154" width="802" height="796" key="new project wizard/1366.0.1920.1080/0.153.1366.768@1366.0.1920.1080" timestamp="1611016714682" />
   </component>
 </project>
