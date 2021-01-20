@@ -36,4 +36,7 @@ Projeto com exemplos de padrões de projeto
           Ele permite que diversas ações sejam executadas de forma transparente à classe principal, reduzindo o acoplamento entre essas ações, facilitando a manutenção e evolução do código.
 - Flyweight
     - Quando Utilizar?
-        - Um Flyweight serve para quando temos muitas instâncias do mesmo objeto andando pelo sistema, e precisamos economizar. Para tal, o Flyweight faz uso de uma fábrica modificada, que guarda essas instâncias.            
+        - Um Flyweight serve para quando temos muitas instâncias do mesmo objeto andando pelo sistema, e precisamos economizar. Para tal, o Flyweight faz uso de uma fábrica modificada, que guarda essas instâncias.
+- Memento
+    - Quando Utilizar?
+        - O Memento é indicado quando precisamos armazenar um histórico de estados de um evento/objeto, permitindo restaurar ou pegar estados de anteriores ao estado atual.                 
